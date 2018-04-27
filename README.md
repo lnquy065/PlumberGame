@@ -2,6 +2,8 @@
 <p align="center"><img src="/readme/tson.gif" width="400px"/></p>
 A java game using Swing library. Rotate the water pipes so that the water does not flow out to win. TSON supports up to 45 available levels that divided to 3 pages, 45 custom levels can be created easily by using Level Editor feature. Provide 6 of pipe types for player's creation. Easy to rotate but hard to play!
 
+#### Download at https://github.com/lnquy065/ThoSuaOngNuoc/tree/master/dist
+
 ## Features
 ### Overview:
  + Animated UI: Custom Button, Slider, Checkbox,...
